@@ -1,13 +1,76 @@
 <!DOCTYPE html>
 <html lang="ko">
 <header>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="css/main.css"/>
+
+  <title>LSM</title>
 </header>
 <body>
-  <div id="app">
-    <p>{{ message }}</p>
-  </div>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top navbar-main" role="navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-  <script src="https://unpkg.com/vue"></script>
+    <div class="collapse navbar-collapse" id="navbarMain">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="#welcome">Welcome</a></li>
+        <li class="nav-item"><a class="nav-link" href="#who">Who</a></li>
+        <li class="nav-item"><a class="nav-link" href="#project">Project</a></li>
+        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <section class="welcome" id="welcome">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 mx-auto">
+          <h1 id="msg" onclick="showText(#msg, Hello World, 0, 500)"></h1>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="who" id="who">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 mx-auto">
+          <h1>who</h1>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="project" id="project">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 mx-auto">
+          <h1>project</h1>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact" id="contact">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 mx-auto">
+          <h1>contact</h1>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Copyright © LSM since 2018</p>
+  </footer>
   <script src="js/main.js"></script>
 </body>
 </html>
