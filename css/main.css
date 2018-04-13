@@ -10,22 +10,19 @@ html, body{
 
 section {
   height: 100vh;
-  margin: 5px;
-  padding-top: 100px;
+  width: auto;
   background-color: rgba(225, 225, 225, 1);
 }
 
 footer{
   height: 10vh;
-  background-color: black;
+  background-color: #9999cc;
   color: white;
   text-align: center;
   padding-top: 10px;
 }
 
 .navbar-main{
-/*  -webkit-transition: all .35s;
-  -moz-transition: all .35s;*/
   transition: all .35s;
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: bold;
@@ -33,6 +30,21 @@ footer{
   z-index: 1000;
   background-color: transparent;
   border: 1px solid transparent;
+}
+
+.project-box{
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  padding: 5px;
+  background-color: white;
+  border: 1px solid white;
+  width: 320px;
+}
+
+.project-title{
+  font-size: 3rem;
+  font-weight: bold;
 }
 
 #welcome{
@@ -45,27 +57,21 @@ footer{
 }
 
 #welcome_msg{
-  padding-top: 5%;
+  width: auto;
+  padding-top: 15%;
   padding-left: 5%;
 }
 
-#who{
-
-}
-
-.about-container{
-  padding: 10px;
-  margin: 10px;
-  background-color: rgba(225, 225, 225, 1);
-  border: 1px solid rgba(225, 225, 225, 1);
-}
-
 #project{
-
+  padding-top: 9%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 3%;
 }
 
 #contact{
-  padding-top: 9%;
+  width: auto;
+  padding-top: 15%;
   padding-left: 10%
 }
 
@@ -75,5 +81,5 @@ footer{
 }
 .font_common{
   font-weight: bold;
-  font-size: 24pt;
+  word-break: break-all;
 }
