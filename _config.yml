@@ -1,1 +1,26 @@
-theme: jekyll-theme-minimal
+# Site settings
+title:          lsm
+description:    "web study"
+baseurl:        "/"
+url:            "https://songmilee.github.io"
+
+# Author
+author:
+  name:         songmilee
+  email:        lsm941010@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
