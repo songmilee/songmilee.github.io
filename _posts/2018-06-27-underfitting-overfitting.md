@@ -2,6 +2,7 @@
 layout: post
 title:  "TIL:Underfitting/Overfitting"
 author: "LSM"
+categories : [til]
 ---
 
 # Underfitting

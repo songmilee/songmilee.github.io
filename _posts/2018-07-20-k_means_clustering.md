@@ -2,6 +2,7 @@
 layout: post
 title:  "TIL:K-means clustering"
 author: "LSM"
+categories : [til]
 ---
 ## K-means clustering
 - 주어진 데이터를 k개의 클러스터로 묶는 알고리즘

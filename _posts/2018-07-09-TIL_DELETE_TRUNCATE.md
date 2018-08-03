@@ -2,6 +2,7 @@
 layout: post
 title:  "TIL: Drop, Truncate, Delete"
 author: "LSM"
+categories : [til]
 ---
 
 ### Drop

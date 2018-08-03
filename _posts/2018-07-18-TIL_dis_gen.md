@@ -2,6 +2,7 @@
 layout: post
 title:  "TIL:generative model, discriminative model"
 author: "LSM"
+categories : [til]
 ---
 
 패턴 인지에서 분류를 할 때 사용되는 모델은 다음과 같이 2가지의 모델이 있음

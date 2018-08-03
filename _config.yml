@@ -5,7 +5,7 @@ baseurl:        "/"
 url:            "https://songmilee.github.io"
 
 # Author
-author:         
+author:
   name:         songmilee
   email:        lsm941010@gmail.com
 
@@ -20,6 +20,7 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
+
 
 # Permalinks
 permalink:      /:year-:month-:day/:title

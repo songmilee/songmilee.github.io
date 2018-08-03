@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "About"
-author: "songmilee"
+author: "lsm"
 permalink: /about/
 ---
 
-
-
-## Contribute
+### 짧은 말
+공부했던 내용을 정리합니다.

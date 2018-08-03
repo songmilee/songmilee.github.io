@@ -2,6 +2,7 @@
 layout: post
 title:  "2018.06.28의 질문"
 author: "LSM"
+categories : [question]
 ---
 
 ### 질문

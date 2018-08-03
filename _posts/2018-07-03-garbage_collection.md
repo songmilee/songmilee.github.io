@@ -2,6 +2,7 @@
 layout: post
 title:  "TIL:Java Garbage Collection"
 author: "LSM"
+categories : [til]
 ---
 ### Garbage
 프로그램 내에서 더 이상 사용되지 않는 메모리를 의미
