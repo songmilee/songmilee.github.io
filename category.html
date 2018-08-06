@@ -8,32 +8,20 @@ permalink: /category
 {% assign esc_date="{{ p.date }}" %}
 {% assign esc_ctgname="{{ hash }}" %}
 
-<div id="post-list">
-  <h2 class="title is-2">"{{ esc_ctgname }}" 카테고리에 있는 글</h2>
-  <ul>
-    <li v-for="p in posts" v-if="p.categories.indexOf(hash) != -1">
-      <a v-bind:href="p.url">{{ esc_title }}</a> <small>{{ esc_date }}</small>
-    </li>
-  </ul>
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
 </div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.16.0/axios.min.js"></script>
-<script>
-var hash = decodeURI(window.location.hash.substr(1));
-
-var postList = new Vue({
-  el: '#post-list',
-  data: {
-    posts: []
-  }
-});
-
-axios.get('/posts.json')
-  .then(function (response) {
-    postList.posts = response.data.posts;
-  })
-  .catch(function (error) {
-    console.log(error);
-  });
-</script>
