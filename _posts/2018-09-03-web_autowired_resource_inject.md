@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIL:autowired, inject, resource"
+title:  "web:autowired, inject, resource"
 author: "LSM"
 categories : [web]
 ---
