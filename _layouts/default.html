@@ -12,7 +12,7 @@
         <ul>
           <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
           <li><a href="{{ site.baseurl }}/">Posts</a></li>
-          <li><a href="{{ '/tag' | prepend: site.baseurl }}">Category</a></li>
+          <li><a href="{{ '/tag' | prepend: site.baseurl }}">tag</a></li>
           {% assign pages_list = site.pages %}
             {% for node in pages_list %}
               {% if node.title != null %}
