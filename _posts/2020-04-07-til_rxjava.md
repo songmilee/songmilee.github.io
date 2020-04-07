@@ -6,26 +6,7 @@ tag : [android]
 categories : [til]
 ---
 
-<table>
-	<thead>
-		<tr>
-			<th></th>
-			<th><center>책 정보</center></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<th><a href="http://book.naver.com/bookdb/book_detail.nhn?bid=12495967"><img src="https://www.hanbit.co.kr/data/books/B3448548347_l.jpg" style="zoom:30%"/></a> </th>
-			<th><b>RxJava 프로그래밍</b>(리액티브 <b>프로그래밍</b> 기초부터 RxAndroid까지 한 번에)</br>유동환, 박정준 저 | 한빛미디어| 2017.09.04
-</th>
-		</tr>
-	</tbody>
-</table>
-
-
 **RxJava 프로그래밍, 한빛미디어**에서 나온 책을 개인적으로 읽고 정리한 것입니다.
-
-
 
 # RxJava
 
