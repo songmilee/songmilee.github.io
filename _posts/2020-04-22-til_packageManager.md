@@ -8,7 +8,7 @@ tag : [til, android]
 
 ## Android Application 설치 확인
 
-안드로이드 어플리케이션에서 타 패키지 설치 여부를 확인이 필요한 경우가 있다. 이때 사용하면 좋은 것이 **PackageManger**이다.  
+안드로이드 어플리케이션에서 타 패키지 설치 여부를 확인이 필요한 경우가 있다. 이때 사용하면 좋은 것이 **PackageManager**이다.  
 
 
 
@@ -22,7 +22,7 @@ Class for retrieving various kinds of information related to the application pac
 
 PackageManager는 현재 기기에 설치되어 있는 앱 패키지와 관련된 다양한 정보를 리턴해준다고 정의 되어 있다.     
 
-PackageManger의 public method인 **getPacakgeInfo**를 이용하면 시스템의 설치된 패키지 정보를 얻을 수 있다.  
+PackageManager의 public method인 **getPacakgeInfo**를 이용하면 시스템의 설치된 패키지 정보를 얻을 수 있다.  
 
 패키지 정보가 없으면 **NameNotFoundException**이 발생한다.
 
@@ -33,7 +33,7 @@ PackageManger의 public method인 **getPacakgeInfo**를 이용하면 시스템�
 - 예시
 
 ```java
-PackageManager pm = new PacakgeManger();
+PackageManager pm = new PackageManager();
 PackageInfo pki = pm.getPackageInfo("com.sample.test", PackageManager.GET_META_DATA);
 ```
 
