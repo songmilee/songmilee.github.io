@@ -41,7 +41,6 @@ View view = inflater.inflate(R.layout.test_layout, parent, false);
 
 - View의 팩토리 메소드
 - 내부에서는 LayoutInflater.inflate를 수행
-- 
 
 
 
