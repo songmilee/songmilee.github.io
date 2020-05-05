@@ -1,6 +1,6 @@
 # Site settings
 title:          lsm
-description:    "web study"
+description:    "기술 기록 및 회고 블로그"
 baseurl:        "/"
 url:            "https://songmilee.github.io"
 
@@ -24,4 +24,8 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       10
+
+# disqus comment
+disqus_url : "https://songmilee.disqus.com"
+disqus_id : "songmilee"
