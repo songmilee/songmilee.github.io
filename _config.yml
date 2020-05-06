@@ -24,7 +24,7 @@ plugins:
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       10
+paginate:       5
 
 # disqus comment
 disqus_url : "https://songmilee.disqus.com"
