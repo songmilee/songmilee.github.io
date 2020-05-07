@@ -1,6 +1,7 @@
 ---
 author : lsm
 title : Kotlin:Coroutine(1)
+layout : post
 tag : [kotiln]
 categories : [android]
 ---
