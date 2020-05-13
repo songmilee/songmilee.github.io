@@ -1,6 +1,6 @@
 ---
 author:lsm
-title : TIL-Java 8 이하에서 함수 매개변수로 넘기기
+title : TIL:함수 매개변수
 layout : post
 tag : [til]
 categories : [til]
