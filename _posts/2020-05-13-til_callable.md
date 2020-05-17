@@ -1,12 +1,10 @@
 ---
-title : TIL:함수 매개변수
 layout : post
-author:lsm
+author : lsm
+title : TIL:함수 매개변수
 tag : [til]
 categories : [til]
 ---
-
-
 
 kotlin에서 함수를 parameter로 넘겨 사용한 경험이 종종 있었다. Java에서 이용을 해보려하니 Java 8을 이용하지 않아 사용이 불가능했다.  8 미만의 버전에서는 어떻게 함수를 넘길 수 있나 찾아보니 **Callable**를  이용하는 것을 확인할 수 있었다.  
 
