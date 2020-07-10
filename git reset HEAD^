@@ -1,0 +1,949 @@
+[33mcommit d77312b770cdc700c2f5f279064e29d962e0e3b1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Jul 10 09:49:07 2020 +0900
+
+    후기
+
+[33mcommit e1d869a1958c762a7cfde2f4a8408360369e1d8e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 2b89dd9 45c0a7e
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Jul 3 16:36:40 2020 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit 2b89dd9c6ebf40a402308e1ee487ce015cef6670[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Jul 3 16:36:24 2020 +0900
+
+    til
+
+[33mcommit 45c0a7e840b744ff796ea3e4f363369ef59471f4[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Jun 23 14:29:43 2020 +0900
+
+    til
+
+[33mcommit 3f109b9973697a50914e96a8e63c2933bf6f24cc[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Jun 18 11:20:49 2020 +0900
+
+    til
+
+[33mcommit 4ddce69b7e1c948d91aafe53d8c7d6385bf4869f[m
+Merge: 110ffe0 d1a3d07
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Jun 17 16:13:04 2020 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit 110ffe01965bb81903abdc257d038fe626d074eb[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Jun 17 16:12:45 2020 +0900
+
+    question
+
+[33mcommit d1a3d0758ead4ed4316a0a06ced562d1329a8419[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Wed Jun 17 07:09:42 2020 +0900
+
+    Update 2020-06-11-til_hof.md
+
+[33mcommit 786b844e6b91008f372a417ab9ab51952155eb22[m
+Merge: dad32d2 153ea5b
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Jun 11 14:09:54 2020 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit dad32d29eb4025e2454b5207976f15d3df6f9022[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Jun 11 14:09:33 2020 +0900
+
+    til
+
+[33mcommit 153ea5b56734edd0ec3273c02765fdcf47edf093[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Jun 9 21:36:31 2020 +0900
+
+    til connectivitymanager
+
+[33mcommit e12044283f30933c240b8b152259cdefd806f80e[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Jun 8 17:51:45 2020 +0900
+
+    til
+
+[33mcommit e629711a8e766e284f77982b3513811eea14061a[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu May 28 15:40:08 2020 +0900
+
+    til
+
+[33mcommit b5f292b16d610e0bfd83732617d65d1a789ff95b[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue May 19 17:52:32 2020 +0900
+
+    til
+
+[33mcommit c089877e40106757bd344254355d850b1fe044b2[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon May 18 17:47:39 2020 +0900
+
+    til
+
+[33mcommit d23a7fa1a4d81e588c7b2529513caec1b5e685f9[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Sun May 17 20:19:36 2020 +0900
+
+    Update 2020-05-13-til_callable.md
+
+[33mcommit f3a057baacd92a97c203a24281586bff1aa6f688[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed May 13 15:56:30 2020 +0900
+
+    title 수정
+
+[33mcommit 91891f8d99b1eff283fc43ee4b11ccd45be41e2a[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Wed May 13 15:54:28 2020 +0900
+
+    Update 2020-05-13-til_callable.md
+
+[33mcommit f949f3c1917ea9fe21195f703d7fe243e0772510[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Wed May 13 15:53:00 2020 +0900
+
+    Update 2020-05-13-til_callable.md
+
+[33mcommit 6dbd40cdcfd6d150764fe8c9d0021dc5d9677a07[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed May 13 15:49:19 2020 +0900
+
+    til
+
+[33mcommit beead84c72f4c5f4169c9ba6bca8c7d26de19c07[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue May 12 18:26:07 2020 +0900
+
+    til
+
+[33mcommit 72df01ee3d3e1e3d013d6b9ef4b786be2422ccf7[m
+Merge: a27b151 deb9ba4
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue May 12 17:06:07 2020 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit a27b151d1d7c65988b88ccfa6e98908bd95daac9[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue May 12 17:05:42 2020 +0900
+
+    add coroutine
+
+[33mcommit deb9ba4b481e8992b984898dca3fb106ceee6f12[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat May 9 14:27:27 2020 +0900
+
+    update security
+
+[33mcommit 2b291a4c6a88b2eccda5d4ced54b10dd88f22b5b[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu May 7 17:19:29 2020 +0900
+
+    coroutine
+
+[33mcommit a4636d9b0100c0c3a2ead606cfab3c608e98ef67[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed May 6 18:13:10 2020 +0900
+
+    change post maximum
+
+[33mcommit 154e1560549ec23dac175658baebfac6f4d29ff8[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed May 6 18:09:57 2020 +0900
+
+    kotlin:coroutine(1)
+
+[33mcommit 11a895895e8f55466fe8ad0febcd98cb4f7887fe[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue May 5 20:21:03 2020 +0900
+
+    add comment to post
+
+[33mcommit e2c74a9ad256352a973124d682da320dd21e7d48[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue May 5 20:09:45 2020 +0900
+
+    add disqus
+
+[33mcommit 51fa707becaf5691288c041e7aa09ad5a7a7fc50[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat May 2 19:40:47 2020 +0900
+
+    til
+
+[33mcommit f360b634285e09a8fbe2ab47bbd94f07961f2223[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Apr 29 20:27:39 2020 +0900
+
+    add til
+
+[33mcommit fb4953fb4c9bd9b23fcdec67131be65a2513887d[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Apr 27 17:17:14 2020 +0900
+
+    til
+
+[33mcommit 56c283609ecde43e72fa4ad869c928fd770b084a[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Apr 22 16:49:20 2020 +0900
+
+    오타 수정
+
+[33mcommit 0c1bbed2ee6b8cf80ef3c64f8367408a0af627f3[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Apr 22 16:41:58 2020 +0900
+
+    til
+
+[33mcommit 226a69d6d57c26b7e2ea1708dc398bbdfbb66a3a[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Apr 21 18:22:27 2020 +0900
+
+    til
+
+[33mcommit 02880dfbb69dce5e505b9a4cb5afa3b739fef677[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Apr 17 16:45:05 2020 +0900
+
+    til
+
+[33mcommit addec04a7ab9f1104c99dc4167251b76a6398602[m
+Merge: 46d76dc 8a845aa
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 16 14:26:51 2020 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit 46d76dcdb9f914c0367765d142c1c52cad751a4e[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 16 14:26:28 2020 +0900
+
+    add android architecture
+
+[33mcommit 8a845aa9ea41cd7c23d8d1942da2e951d6bf607c[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Apr 13 22:47:16 2020 +0900
+
+    add til
+
+[33mcommit 0534598a074cec312aad3c6367fb81f30c43a1a1[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Thu Apr 9 15:13:05 2020 +0900
+
+    Rename 2020-04-08-TIL_rxjava_observable.md to 2020-04-09-TIL_rxjava_observable.md
+
+[33mcommit 5ba2c57804f16b928895d9983145992266b1e762[m
+Merge: 7a7cf3d 8b8c2de
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 9 15:10:50 2020 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit 7a7cf3de6cd8f943a7b873e899e3b0795ff90acc[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 9 15:10:27 2020 +0900
+
+    til rxjava
+
+[33mcommit 8b8c2deef669d93a0aabcc37c1eb46a6507a2b09[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Apr 8 20:33:44 2020 +0900
+
+    제목 수정
+
+[33mcommit dab82087c61c657562bf7b5de2ddcfc8a8562a6c[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Apr 8 20:32:12 2020 +0900
+
+    til saf
+
+[33mcommit 6495d4075e427d0435a0e3cb7fc30e3aa541def5[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Apr 7 16:19:32 2020 +0900
+
+    서치 등록
+
+[33mcommit 42723d7b30de254221cee63750e0ea777c41b12a[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Tue Apr 7 16:14:18 2020 +0900
+
+    Update 2020-04-07-til_rxjava.md
+
+[33mcommit 4eaee4b45faa594b42275b19e15494b14f084140[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Apr 7 16:12:40 2020 +0900
+
+    til rxjava
+
+[33mcommit 42ff41daa2d00e70b18aac9a50b50105ce86518a[m
+Merge: 2747520 5c14a50
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Apr 6 17:38:08 2020 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit 2747520252e7203b5865f39be5b267f569d3bb07[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Apr 6 17:37:44 2020 +0900
+
+    android 4대 컴포넌트
+
+[33mcommit 5c14a50eb4e615e39bfb8edf43f80bd073d1a5a3[m
+Merge: 9a9cf87 5b58eef
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Apr 6 15:24:57 2020 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit 9a9cf871d02505dc1a53170f5cfbf4f350045395[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Apr 6 15:24:32 2020 +0900
+
+    update about
+
+[33mcommit 5b58eefcea28d3cabda7d2ad30700197316a09ef[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Mar 31 16:01:12 2020 +0900
+
+    android nfc adapter
+
+[33mcommit 09b7975cdd6944bb3d8152b3759204560ab0d3be[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Mar 30 17:04:08 2020 +0900
+
+    nfc
+
+[33mcommit 8d5a54c6f49c8becfe638f39516eb73429ff04cc[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Mar 27 14:19:48 2020 +0900
+
+    kotiln 함수 정리
+
+[33mcommit 503dce103bcbe91fe1b0d920d75893cdee23eb78[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Mar 26 17:46:09 2020 +0900
+
+    add android bluetooth
+
+[33mcommit cebba9480c1efc156f78e3062e93bf31df6a1c83[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Mar 20 17:07:59 2020 +0900
+
+    이미지 변경
+
+[33mcommit e67cce86f8238f44d46175f4f4dbcccc3a5e4bd4[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Mar 20 17:03:30 2020 +0900
+
+    android : oom
+
+[33mcommit d82e97ea882ec27b0f59b1dd523d3bd46ee96033[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Mar 16 19:49:27 2020 +0900
+
+    Android 10 변경 사항 추가
+
+[33mcommit 3f7e70a086d64ce429f384745bc06091d5d20d54[m
+Author: songmilee <son8416>
+Date:   Fri Dec 27 17:05:49 2019 +0900
+
+    android : media store
+
+[33mcommit d17d9651819854aec842affb812a6c9eac072e0f[m
+Author: songmilee <son8416>
+Date:   Sat Oct 26 14:45:23 2019 +0900
+
+    til
+
+[33mcommit 8df8ca407f11de980bdaf0bfa2718a93930ff0c3[m
+Author: songmilee <son8416>
+Date:   Fri Oct 4 13:24:43 2019 +0900
+
+    add til
+
+[33mcommit 83323eee8a0352d05e860c21fc73f130667b295f[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sun Jul 28 17:28:07 2019 +0900
+
+    ros 수업 정리
+
+[33mcommit 36b245bfa592aa6ce5ec25fdfdd725555362b96c[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Jul 27 17:32:36 2019 +0900
+
+    ros
+
+[33mcommit 89c179e507b22408d117ac92fa28f396c45ae1e8[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Jul 27 09:11:25 2019 +0900
+
+    AIKOREA - 2019
+
+[33mcommit 8f6aedd0a048a920d4a1d82429586d49a6ec1103[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Thu Jul 25 19:30:42 2019 +0900
+
+    Rename 2019-07-25_AIKOREA_2019.md to 2019-07-25-AIKOREA_2019.md
+
+[33mcommit 3d7f3df0ad842b27a265f300090eda51a763af34[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Thu Jul 25 19:27:28 2019 +0900
+
+    Update 2019-07-25_AIKOREA_2019.md
+
+[33mcommit 5dcd0a3d44ec9c374807e4eb8b406b74acc036d2[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Jul 25 19:25:51 2019 +0900
+
+    AIKorea 2019
+
+[33mcommit 5a4992b201a32072077458e5431d985c83e2151c[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sun Jul 14 21:09:49 2019 +0900
+
+    move location
+
+[33mcommit 905694670f05ae95fc6d28e4696a6cc9d2bb8284[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sun Jul 14 21:05:36 2019 +0900
+
+    change layout
+
+[33mcommit 16e7c754c8a55c575130b942ae7db09822a92558[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sun Jul 14 20:51:54 2019 +0900
+
+    add robot.txt, sitemap.xml
+
+[33mcommit 275a406b7be2efdcd83a61041d73279ba589f912[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sun Jul 14 20:43:10 2019 +0900
+
+    add google
+
+[33mcommit 8b132405082243f015632c4aaabebd1f3df98a15[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Jul 10 20:20:19 2019 +0900
+
+    nlp study
+
+[33mcommit bf6983a55e4ec9f3457b289c358d7d6154637c71[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Jun 8 13:38:22 2019 +0900
+
+    add nlp ner
+
+[33mcommit 461a405724d828d5f4a40ea8e90f6d2187a89afa[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sun Apr 21 18:56:57 2019 +0900
+
+    add web
+
+[33mcommit 66a07f2d7a6c69765264ab679fea32196c718258[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Feb 11 20:56:13 2019 +0900
+
+    til
+
+[33mcommit c5e13cc526f20747faf0b92b982eb8674a773915[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Oct 11 22:21:36 2018 +0900
+
+    til
+
+[33mcommit 47e851ce6dd6b3835706c53592a6a27070b6bc68[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Oct 8 21:49:44 2018 +0900
+
+    til
+
+[33mcommit 404c94990ecb50c987bdbe5ca3341633bdc19fd4[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Oct 6 21:14:57 2018 +0900
+
+    til
+
+[33mcommit 30b671a3a87ff754944a71bc45c658cdb16f62e0[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Oct 5 19:55:56 2018 +0900
+
+    til
+
+[33mcommit a1fc10d6727cc6a0f610da3f563e6aa79c96b2db[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Oct 4 20:36:58 2018 +0900
+
+    til
+
+[33mcommit b106254821fbd9dd43ee6100be430cb1fbaab7b1[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Oct 3 18:20:52 2018 +0900
+
+    til
+
+[33mcommit b90e32b0089387b3aaa2f3bfb09d678e5e5ea727[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Oct 2 21:08:17 2018 +0900
+
+    til
+
+[33mcommit e770ee36a17658b842212b9b74cae5a8bf8e08fd[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Oct 1 21:07:17 2018 +0900
+
+    til
+
+[33mcommit 8f1e18c7ddddbf98ac34704912729ad211da45f3[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sun Sep 30 22:17:50 2018 +0900
+
+    til
+
+[33mcommit c7d860405c0f7fdce59f7780a48062d00092a4b2[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Sep 29 21:35:44 2018 +0900
+
+    til
+
+[33mcommit 319a3958802955d9f042df89257be7a8e4c4f4e5[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Sep 28 11:47:37 2018 +0900
+
+    til
+
+[33mcommit 06a9763c9ce2276d06f99aee80553c52e2d0d2e5[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Sep 27 07:47:05 2018 +0900
+
+    til
+
+[33mcommit a0cac773643c9d6b58c5bceb3a29a65d5a4d44b9[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Sep 19 20:52:39 2018 +0900
+
+    til
+
+[33mcommit 835b7ef8db2411ca4ee51ad2cad663776bef79aa[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Sep 18 11:24:41 2018 +0900
+
+    til
+
+[33mcommit a12b12c205bea7dfc3cedcb9292b2247902f114d[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Sep 17 11:05:55 2018 +0900
+
+    til
+
+[33mcommit 9dc46a45de8d84042c70346007b262d327a8f226[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Sep 14 20:09:50 2018 +0900
+
+    til
+
+[33mcommit 66a6fb36455708742c4c9e0b13159c22b49c2e9e[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Sep 13 13:43:19 2018 +0900
+
+    til
+
+[33mcommit 78e4f41d269df861af0a40edf8c9c653420fcbb2[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Sep 12 08:32:45 2018 +0900
+
+    til
+
+[33mcommit 767465893c3f3e134bab6787f9b581f4a863daeb[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Sep 11 09:11:32 2018 +0900
+
+    til
+
+[33mcommit 3164d1ccd29af0bfc169aa43364b7b9745342c7c[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Sep 10 09:45:13 2018 +0900
+
+    til
+
+[33mcommit 22a6272a4f4e2808dc559fdb070e8985321f6451[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sun Sep 9 11:08:52 2018 +0900
+
+    til
+
+[33mcommit 30e93fa157b18132e8d1825411d857e6b40dad8a[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Sep 8 19:01:31 2018 +0900
+
+    test
+
+[33mcommit 12b8732b64883d5e1ea4f77589ee5ec4481886b9[m
+Merge: b6514d1 edc17fa
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Sep 5 21:46:25 2018 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit b6514d1ce370ac53f2f73ad19c5c9b1b045f21e8[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Sep 5 21:46:02 2018 +0900
+
+    til
+
+[33mcommit edc17facc4841164c694446192e26abc43583efd[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Sep 4 21:49:43 2018 +0900
+
+    web
+
+[33mcommit b958133322d9c1b4ca63c2bdef65fec8a9c9ac33[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Sep 3 20:20:36 2018 +0900
+
+    til
+
+[33mcommit ec62143aaed52fca16e58d5ac971d6d8851a433f[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Aug 29 21:06:42 2018 +0900
+
+    web
+
+[33mcommit 4cf9ac805d71be68fdfbe6f27d38f841e17a8d60[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Aug 28 21:07:32 2018 +0900
+
+    til
+
+[33mcommit 93cde73d2601a4e910ce292a44acc2b612f1eb86[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Aug 27 22:52:23 2018 +0900
+
+    til
+
+[33mcommit 788732baad9b2b966728376e6231d913465f7479[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Aug 18 16:01:07 2018 +0900
+
+    web
+
+[33mcommit 67d389beb5be59cb66c70156ab374f2fa3ef2f76[m
+Merge: 22bdeec f04aa77
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Aug 17 13:08:16 2018 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+    
+    commit
+
+[33mcommit 22bdeec275f4a6546dd61daa76148942ec6dcaba[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Aug 17 13:07:34 2018 +0900
+
+    web
+
+[33mcommit f04aa77b55349eba2bafed15e59464ca2cd74767[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Aug 16 11:09:48 2018 +0900
+
+    web study
+
+[33mcommit bb725cec51ee021dd662c62b41ff0b38af4aaec2[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Aug 15 20:03:16 2018 +0900
+
+    til
+
+[33mcommit 9d527a2cb9fe4d916f8e941c010b741c59810e56[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Aug 14 21:07:15 2018 +0900
+
+    til
+
+[33mcommit 7464433b6bc0f67ae94dc118fbcf71e8de872d9e[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Aug 13 12:48:37 2018 +0900
+
+    web
+
+[33mcommit 141e79ec683d20aa076c14cc56957155bccae543[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Aug 11 12:28:49 2018 +0900
+
+    til
+
+[33mcommit 31940dd2fff9248e63311c79e360087263efc305[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Aug 9 13:02:51 2018 +0900
+
+    til
+
+[33mcommit 78535670f6c1095a2f45e6525a59eb54d2d4ac22[m
+Merge: 5b13e9d 4a50dfa
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Aug 8 19:32:13 2018 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit 5b13e9d2030d5da795bfe300bd619dcd0b4e417c[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Aug 8 19:31:49 2018 +0900
+
+    web : controller, dao, service
+
+[33mcommit 4a50dfa731fa414e5ad04f3577b0274577046952[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Aug 7 17:50:55 2018 +0900
+
+    수정
+
+[33mcommit e510614a475565f17059e6a648fceeb324de7bed[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Aug 7 17:46:56 2018 +0900
+
+    web jstl study
+
+[33mcommit 8473524f512f2d67d2894e5a511f2f9c29f98017[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Aug 7 10:38:07 2018 +0900
+
+     modify
+
+[33mcommit 1360424f4493e4d56690c567a514be8ac8c56fac[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Aug 7 10:33:29 2018 +0900
+
+    til
+
+[33mcommit da1d9a8e5fb7034182033a59fada1157d090c95d[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Aug 6 11:09:53 2018 +0900
+
+    til
+
+[33mcommit 7e6f673b4d5bcd16d5f5de87399e506c1ffde8c6[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Aug 6 11:07:24 2018 +0900
+
+    til
+
+[33mcommit cb78a6b91ede5010fe0158e0fd85547b21efcb2f[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Aug 3 17:03:57 2018 +0900
+
+    modify category
+
+[33mcommit cca7cd33580bc60c850505e7e8cdcc2b5a8887bf[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Aug 3 17:01:56 2018 +0900
+
+    modify category
+
+[33mcommit b6de986bb12b28b5b04c15a4ecdd72289bd7cd12[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Aug 3 16:54:55 2018 +0900
+
+    modify category
+
+[33mcommit ccd9105c9644bb244a92d3beaabfc44f739428fd[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Aug 3 16:51:10 2018 +0900
+
+    category
+
+[33mcommit cc7a57c746eef3f95b0f17a27a221f2b1eaceaff[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Aug 3 12:26:48 2018 +0900
+
+    til
+
+[33mcommit 03fc281f7d49ddc3f2e20e3839628793cdc409da[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Aug 2 12:34:43 2018 +0900
+
+    til
+
+[33mcommit ff9a1f4a8e07235e46598407ff90ad133cd1dac6[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Tue Jul 24 12:13:18 2018 +0900
+
+    til
+
+[33mcommit 54b10263c71b1ab9c4a2417389c1ac233f0486f5[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Jul 23 15:11:46 2018 +0900
+
+    수정
+
+[33mcommit 1bbf69404a1e38bd111b27c41d5c1e86da7ffac9[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Jul 23 15:02:56 2018 +0900
+
+    til
+
+[33mcommit c7c3b3db70e7763608915cbf8813fa46e524a63f[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Jul 20 10:46:12 2018 +0900
+
+    til
+
+[33mcommit 533561ab571bb70a1ecbbd2f86bf0396dcce779b[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Jul 19 11:21:43 2018 +0900
+
+    end hightlight
+
+[33mcommit d5d7822ad6d2f53c1c35811db6c9295fb654c6b7[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Jul 19 11:18:13 2018 +0900
+
+    til
+
+[33mcommit 1ff46232f71479873d34bf21fcebcc99d5d1830f[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Jul 18 10:41:22 2018 +0900
+
+    til
+
+[33mcommit 73b0b24c03dfba53c906f4d3e2ea1cfb30fc17d2[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Sat Jul 14 15:08:20 2018 +0900
+
+    오늘의 문제
+
+[33mcommit 8b357d3fca4f97d7c784fb9906de909800907bfa[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Jul 12 15:59:31 2018 +0900
+
+    통계
+
+[33mcommit 3207b2aad05b829b97ee8224474cdd8f9da06562[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Wed Jul 11 12:32:44 2018 +0900
+
+    앙상블 학습 기법
+
+[33mcommit 5e34b264ce23b919db880c0394c0d0b321b4c2ec[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Jul 9 21:09:47 2018 +0900
+
+    til
+
+[33mcommit 0e8e70c0f07b3167b592b01a803b6a8d493b4626[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Mon Jul 9 21:04:45 2018 +0900
+
+    til 180709
+
+[33mcommit 5f484b69f1d49521ea9c4d5d05bbc8ef5cf129e7[m
+Author: unknown <lsm941010@gmail.com>
+Date:   Tue Jul 3 11:42:34 2018 +0900
+
+    add gc
+
+[33mcommit 46adc31c1e4d0016c2e0dbf876860554eac58e12[m
+Author: unknown <lsm941010@gmail.com>
+Date:   Fri Jun 29 19:10:46 2018 +0900
+
+    til : pca
+
+[33mcommit 5dede122cbe8264a74c65f9cb73097feee8560a5[m
+Author: unknown <lsm941010@gmail.com>
+Date:   Fri Jun 29 17:29:16 2018 +0900
+
+    question update
+
+[33mcommit b4372f5f1c50c2fe783391e526d9797fedb96eec[m
+Author: unknown <lsm941010@gmail.com>
+Date:   Wed Jun 27 18:50:12 2018 +0900
+
+    til overfitting/underfitting
+
+[33mcommit 2eb95dadc6ce932ec23154efdb7f976427ce1dd4[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Thu Apr 26 15:17:34 2018 +0900
+
+    Delete README.md
+
+[33mcommit e3e01c1dd395bcc04b57cca336fa05e9b4f0e526[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 26 13:32:01 2018 +0900
+
+    change the config file
+
+[33mcommit 908ff6e46e51b75900fca67e62f5253f88dbfec2[m
+Merge: c790310 20c1200
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 26 13:17:14 2018 +0900
+
+    Merge branch 'master' of https://github.com/songmilee/songmilee.github.io
+
+[33mcommit c7903104ad33e70472fe827a93543e85cd8343e7[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 26 13:16:53 2018 +0900
+
+    add the template
+
+[33mcommit 20c120064636f5586706fd73f68d94f9c195251b[m
+Author: songmilee <9676685+songmilee@users.noreply.github.com>
+Date:   Mon Apr 16 14:24:43 2018 +0900
+
+    Set theme jekyll-theme-minimal
+
+[33mcommit 97ccded59895a1562f298ed3cad5e7a23974124e[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Fri Apr 13 12:51:50 2018 +0900
+
+    clean the mobile view & set the proto project box type
+
+[33mcommit aaf7ec54146e1b071231eddd7a02cc2168285ac1[m[33m ([m[1;31morigin/song[m[33m)[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 12 11:50:40 2018 +0900
+
+    change footer vh & favicon
+
+[33mcommit 9c413625462be8cef5f35d95f7fa34b1642ad8cc[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 12 11:38:07 2018 +0900
+
+    change font hanna to noto sans kr
+
+[33mcommit 8ef6f5527febb3fb35eb54b33fdd6ad7eea0a9a3[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 12 11:31:01 2018 +0900
+
+    change http to https
+
+[33mcommit 41f3d1d9c68a65a4f6d12ab711c654532139da8b[m
+Author: songmilee <lsm941010@gmail.com>
+Date:   Thu Apr 12 11:23:11 2018 +0900
+
+    change welcome msg and contact section
+
+[33mcommit f50066f5fa9fe0a0188a49571d461eb14912bb4c[m
+Author: songmilee <s91010@naver.com>
+Date:   Wed Feb 28 16:51:45 2018 +0900
+
+    add favicon
+
+[33mcommit 835f24e5266c7a710f89831dd9eb58212dbeb00e[m
+Author: songmilee <s91010@naver.com>
+Date:   Wed Feb 28 16:15:22 2018 +0900
+
+    single page application frame
+
+[33mcommit ee8e45cb249beebcf5660ec427cc119db2946732[m
+Author: songmilee <s91010@naver.com>
+Date:   Wed Feb 28 11:29:08 2018 +0900
+
+    first commit
