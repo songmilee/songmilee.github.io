@@ -23,7 +23,7 @@ categories : [android]
 
 
 
-<center> <img src="https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/_posts/img/2020_03_20_chatbot_app.png" alt="chatbot" style="zoom:25%;" />
+<center> <img src="https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/img/2020_03_20_chatbot_app.png" alt="chatbot" style="zoom:25%;" />
 
 개발 챗봇 이미지</center>
 
@@ -47,7 +47,7 @@ categories : [android]
 
 내 SDK의 문제가 아닌 외부의 요인이길 바랐지만, Android Profiler를 통해 잡히는 결과를 확인해 본 결과 내 SDK 문제가 맞았다.
 
-<img src="https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/_posts/img/2020_03_20_conv_mem.PNG" style="zoom: 67%;" />
+<img src="https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/img/2020_03_20_conv_mem.PNG" style="zoom: 67%;" />
 
 - 실험 방식
   - 평문 및 블록 링크를 통한 일상적 대화 진행
@@ -59,7 +59,7 @@ categories : [android]
 
 
 
-<img src="https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/_posts/img/2020_03_20_stay_mem.PNG"  />
+<img src="https://raw.githubusercontent.com/songmilee/songmilee.github.io/img/2020_03_20_stay_mem.PNG"  />
 
 - 실험 방식
   - 봇 화면만 띄워 놓은 채 5분 간 유지
@@ -74,7 +74,7 @@ categories : [android]
 
 
 
-<img src="https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/_posts/img/2020_03_20_scroll_mem.PNG"  />
+<img src="https://raw.githubusercontent.com/songmilee/songmilee.github.io/img/2020_03_20_scroll_mem.PNG"  />
 
 - 실험 방식
   - 800개 이상 쌓인 데이터를 대상으로 위, 아래 스크롤 행위 반복
@@ -111,7 +111,7 @@ Android Profiler를 통해 확인해보니 프로젝트 내에서 자주 사용�
 
 
 
-![conv_change](https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/_posts/img/2020_03_20_conv_mem_change.PNG)
+![conv_change](https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/img/2020_03_20_conv_mem_change.PNG)
 
 - 결과
   - 최소 : 71.96 MB
@@ -120,7 +120,7 @@ Android Profiler를 통해 확인해보니 프로젝트 내에서 자주 사용�
 
 
 
-![stay_change](https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/_posts/img/2020_03_20_stay_mem_change.PNG)
+![stay_change](https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/img/2020_03_20_stay_mem_change.PNG)
 
 - 결과
   - 최소 : 94.9 MB
@@ -129,7 +129,7 @@ Android Profiler를 통해 확인해보니 프로젝트 내에서 자주 사용�
 
 
 
-![scroll_change](https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/_posts/img/2020_03_20_scroll_mem_change.PNG)
+![scroll_change](https://raw.githubusercontent.com/songmilee/songmilee.github.io/master/img/2020_03_20_scroll_mem_change.PNG)
 
 - 결과
   - 최소 : 77.82 MB

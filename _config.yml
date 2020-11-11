@@ -22,8 +22,8 @@ plugins:
   - jekyll-paginate
 
 
-# Permalinks
-permalink:      /:year-:month-:day/:title
+# PermalinksF
+permalink:      /:year/:month-:day/:title
 paginate:       5
 
 # disqus comment
